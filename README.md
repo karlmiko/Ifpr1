@@ -1,4 +1,6 @@
-# ifpr1
+Karl Michel Koerich.
+
+karlmiko@gmail.com
 
 Exercises and Games Developed 2013
 
